@@ -1,11 +1,11 @@
 Digite abaixo as notas que você tirou nas disciplinas de:
 
-CI/CD
-Core Devops
+CI/CD 10
+Core Devops 8.5
 CI/CD 10000
-Core Devops ajs
-Agile
-Coach
-haha
+Core Devops ajs 9
+Agile 9
+Coach 10
+haha kkkkkkkkkkkkkkk
 
 Gabs eh FODA
