@@ -5,3 +5,5 @@ CI/CD
 Core Devops
 Agile
 Coach
+
+Gabs eh FODA
