@@ -2,6 +2,6 @@ Digite abaixo as notas que você tirou nas disciplinas de:
 
 
 CI/CD
-Core Devops
-Agile
-Coach
+Core Devops 0
+Agile 8
+Coach 9
