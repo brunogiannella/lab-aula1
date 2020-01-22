@@ -1,11 +1,6 @@
 Digite abaixo as notas que você tirou nas disciplinas de:
 
-CI/CD
-Core Devops
-CI/CD 10000
-Core Devops ajs
-Agile
-Coach
-haha
-
-Gabs eh FODA
+CI/CD - Abreu
+Core Devops - Cristiano
+Agile - Don Joao
+Coach - Loka
