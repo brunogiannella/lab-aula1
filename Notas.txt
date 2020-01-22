@@ -4,3 +4,5 @@ CI/CD 10000
 Core Devops ajs
 Agile
 Coach
+
+Gabs eh FODA
