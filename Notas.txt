@@ -3,7 +3,7 @@ Digite abaixo as notas que você tirou nas disciplinas de:
 
 CI/CD
 Core Devops
-Agile
 Coach
+haha
 
 Gabs eh FODA
