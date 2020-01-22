@@ -1,11 +1,10 @@
-Digite abaixo as notas que você tirou nas disciplinas de:
 
-CI/CD 10
-Core Devops 8.5
-CI/CD 10000
-Core Devops ajs 9
-Agile 9
-Coach 10
-haha kkkkkkkkkkkkkkk
+################################
+## MATERIA | NOTA | PROFESSOR ##
+################################
+CI/CD | 10 | Abreu
+Core Devops | 9 | Cristiano
+Agile | 9 | Don Joao
+Coach | 10 | Loka
 
-Gabs eh FODA
+
